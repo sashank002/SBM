@@ -14,9 +14,10 @@ public class InitialLeftPanel extends JPanel   {
 	
 	InitialLeftPanel(){
 		setLayout(new GridLayout(10,0));
+		cpanel=new Color(0,2,52);
 		f=new Font("calibri",Font.PLAIN,25);
 		
-		cpanel=new Color(0,2,52);
+		
 		
 		
 		
