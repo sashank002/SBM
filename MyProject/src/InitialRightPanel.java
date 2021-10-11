@@ -7,9 +7,9 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JComponent;
 import javax.swing.JLabel;
+import javax.swing.border.LineBorder;
 import javax.swing.JPanel;
 import javax.swing.border.Border;
-import javax.swing.border.LineBorder;
 
 
 public class InitialRightPanel extends JPanel{
