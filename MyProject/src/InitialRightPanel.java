@@ -13,11 +13,12 @@ import javax.swing.border.Border;
 
 
 public class InitialRightPanel extends JPanel{
+	
+	Color tc;//for transparent color
+	Color cpanel;
 	JButton deposit,withdraw,ac_detail,per_detail,transfer,transaction;
 	JLabel wall;
 	JLabel Deposit,Withdraw,Ac_detail,Per_detail,Transfer,Transaction;
-	Color tc;//for transparent color
-	Color cpanel;
 	Color brc;
 	DashboardPanel dash;
 	CardLayout rcard,lcard;
